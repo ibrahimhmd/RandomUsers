@@ -6,7 +6,7 @@
 
 # Screenshots
 
-<img src="" alt="drawing" width="600" hight= "700"/>
+<img src="https://github.com/ibrahimhmd/RandomUsers/assets/46127624/0b42c7a3-31d9-4b63-9a2a-adabdcc775e0" alt="drawing" width="300" hight= "200"/>
 
 
 
