@@ -6,7 +6,7 @@
 
 # Screenshots
 
-<img src="" alt="drawing" width="200" hight= "300"/>
+<img src="" alt="drawing" width="600" hight= "700"/>
 
 
 
